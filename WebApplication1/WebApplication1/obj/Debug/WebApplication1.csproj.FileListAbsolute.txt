@@ -1,0 +1,40 @@
+c:\users\lenovo-admin pc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+c:\users\lenovo-admin pc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\lenovo-admin pc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\lenovo-admin pc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\lenovo-admin pc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\lenovo-admin pc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\lenovo-admin pc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\lenovo-admin pc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+c:\users\lenovo-admin pc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\lenovo-admin pc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+c:\users\lenovo-admin pc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+c:\users\lenovo-admin pc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+c:\users\lenovo-admin pc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+c:\users\lenovo-admin pc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+c:\users\lenovo-admin pc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+c:\users\lenovo-admin pc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\lenovo-admin pc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\lenovo-admin pc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+c:\users\lenovo-admin pc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+c:\users\lenovo-admin pc\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+F:\CCL\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+F:\CCL\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\CCL\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\CCL\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\CCL\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\CCL\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\CCL\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\CCL\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+F:\CCL\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+F:\CCL\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+F:\CCL\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+F:\CCL\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+F:\CCL\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+F:\CCL\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.dll
+F:\CCL\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+F:\CCL\WebApplication1\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\CCL\WebApplication1\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\CCL\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+F:\CCL\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+F:\CCL\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
